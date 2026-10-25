@@ -1,0 +1,11 @@
+id,name,city,country,latitude,longitude,operator,capabilities,aircraft_supported,hangars,annual_capacity
+1,Lufthansa Technik,Frankfurt,Germany,50.0379,8.5622,Lufthansa Technik,"Engine Overhaul;Heavy Maintenance;Line Maintenance","A320;A330;A350;B737;B747;B777",8,950
+2,Air India Engineering Services,Delhi,India,28.5562,77.1000,AIESL,"Line Maintenance;Base Maintenance","A320;A321;B787;B777",6,720
+3,ST Engineering,Singapore,Singapore,1.3644,103.9915,ST Engineering,"Heavy Maintenance;Engine Repair","A320;A330;A350;B737;B787",10,1200
+4,Safran Aircraft Engines,Paris,France,48.7262,2.3652,Safran,"Engine Repair;Component Repair","A320;A350;B737",5,640
+5,GE Aerospace,Cardiff,United Kingdom,51.3960,-3.3430,GE Aerospace,"Engine Overhaul","B777;B787;A350",4,540
+6,HAECO,Hong Kong,China,22.3080,113.9185,HAECO,"Heavy Maintenance;Cabin Modification","A320;A330;A350;B777",7,880
+7,SR Technics,Zurich,Switzerland,47.4581,8.5555,SR Technics,"Heavy Maintenance;Engine Repair","A320;A330;B737",5,610
+8,Turkish Technic,Istanbul,Turkey,40.9769,28.8146,Turkish Technic,"Heavy Maintenance;Engine Overhaul","A320;A330;A350;B737;B777",9,1000
+9,Etihad Engineering,Abu Dhabi,UAE,24.4330,54.6511,Etihad Engineering,"Heavy Maintenance;Cabin Retrofit","A320;A330;A350;B787",6,760
+10,SIA Engineering,Singapore,Singapore,1.3502,103.9940,SIA Engineering,"Line Maintenance;Heavy Maintenance","A320;A350;B777",8,940
